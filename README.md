@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Rizky Rafi Azhara</h1>
 
-- 🌱 I’m currently learning **Vue 3 Composition API**
+- 🌱 I’m currently learning **Pinia and Typescript**
 
 - 📫 How to reach me **azhararizkyrafi@gmail.com**
 
