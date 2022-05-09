@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Rizky Rafi Azhara</h1>
 
-- 🌱 I’m currently learning **SASS**
+- 🌱 I’m currently learning **Nuxt**
 
 - 📫 How to reach me **azhararizkyrafi@gmail.com**
 
